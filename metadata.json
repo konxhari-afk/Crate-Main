@@ -1,0 +1,6 @@
+{
+  "name": "Crate",
+  "description": "Private, invite-only, ad-free music player with spatial audio, 5-band EQ, silent AI queue, Blend, and Listen Together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

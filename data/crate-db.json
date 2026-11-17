@@ -1,0 +1,2022 @@
+{
+  "profiles": [
+    {
+      "id": "member-002",
+      "email": "diya.sharma@crate.fm",
+      "full_name": "Diya Sharma",
+      "avatar_url": "/src/assets/images/avatar_listener_a_1794839824622.jpg",
+      "is_admin": false,
+      "is_approved": false,
+      "created_at": "2026-11-08T14:22:00Z",
+      "mobile_number": "+91 98111 22334",
+      "password": "Diya@9811"
+    },
+    {
+      "id": "member-003",
+      "email": "rohan.verma@crate.fm",
+      "full_name": "Rohan Verma",
+      "avatar_url": "/src/assets/images/avatar_listener_b_1794839824116.jpg",
+      "is_admin": false,
+      "is_approved": false,
+      "created_at": "2026-11-11T18:05:00Z",
+      "mobile_number": "+91 98222 44556",
+      "password": "Rohan#4455"
+    },
+    {
+      "id": "member-004",
+      "email": "kabir.singh@crate.fm",
+      "full_name": "Kabir Singh",
+      "avatar_url": "/src/assets/images/avatar_listener_b_1794839824116.jpg",
+      "is_admin": false,
+      "is_approved": false,
+      "created_at": "2026-11-15T21:40:00Z",
+      "mobile_number": "+91 98333 66778",
+      "password": "Kabir$6677"
+    },
+    {
+      "id": "c4a52c9c-0384-4aff-85d4-cd2988cae611",
+      "email": "neha.kapoor@crate.fm",
+      "full_name": "Neha Kapoor",
+      "avatar_url": "/src/assets/images/avatar_listener_a_1794839824622.jpg",
+      "is_admin": false,
+      "is_approved": false,
+      "created_at": "2026-11-16T14:43:27.482Z",
+      "mobile_number": "+91 98000 00000",
+      "password": "Neha*2026"
+    },
+    {
+      "id": "4c567fc6-a617-4718-bdcc-9fccf924ecc2",
+      "email": "konhxri@outlook.com",
+      "mobile_number": "+91 89494 06292",
+      "full_name": "Hari Shekhawat",
+      "avatar_url": "/api/avatars/4c567fc6-a617-4718-bdcc-9fccf924ecc2-1794845977578.jpg",
+      "is_admin": false,
+      "is_approved": true,
+      "created_at": "2026-11-16T16:19:29.143Z",
+      "password": "Hxri@8949"
+    },
+    {
+      "id": "owner-harvix",
+      "email": "hari@harvix.space",
+      "mobile_number": "+91 98765 43210",
+      "full_name": "Hari (Owner)",
+      "avatar_url": "/src/assets/images/avatar_owner_1794839824806.jpg",
+      "is_admin": true,
+      "is_approved": true,
+      "created_at": "2026-11-01T09:15:00Z",
+      "password": "@Hxri8949!"
+    }
+  ],
+  "mobileOtps": {
+    "ananya.test@crate.fm::+919844455667": {
+      "email": "ananya.test@crate.fm",
+      "mobileNumber": "+919844455667",
+      "code": "869014",
+      "expiresAt": 1794845268913
+    }
+  },
+  "sessions": {
+    "3c26b9eb7ce4202a2de2a05f68403cd8043916af91cb6784de9640f1cdfcc7ee": {
+      "userId": "c4a52c9c-0384-4aff-85d4-cd2988cae611",
+      "expiresAt": 1795445007571
+    },
+    "123090debe3a2de2957b6fe0b4b350718790d0221adf6a2dc65073df29ec2dd8": {
+      "userId": "4c567fc6-a617-4718-bdcc-9fccf924ecc2",
+      "expiresAt": 1795450771758
+    },
+    "760269fd9b0c2b64429a222a4316c70b1d2cdff3812b865b48e2bb61ec30eafb": {
+      "userId": "owner-harvix",
+      "expiresAt": 1794889742190,
+      "ownerVerified": true
+    },
+    "d50b69ac7743ed40551e42042fd10067a7365642b5eafef3b9eaea72c217a28a": {
+      "userId": "owner-harvix",
+      "expiresAt": 1794890317502,
+      "ownerVerified": true
+    },
+    "0501aa9bd51efc66348570c5908679aa1c6abb5e89702bc77d4ea6951fd00b9d": {
+      "userId": "0da945ea-81ce-4219-b410-2131b6276b81",
+      "expiresAt": 1795459134982
+    },
+    "4256116b40125b5d39cf82a10486c7ab4593ef256ef090acfd988cd50b7df1a1": {
+      "userId": "owner-harvix",
+      "expiresAt": 1794898659745,
+      "ownerVerified": true
+    },
+    "0b63193b1c0d57eb689bfc25b5c605490110f0c956a380758a76298d23b829c0": {
+      "userId": "owner-harvix",
+      "expiresAt": 1794898702983,
+      "ownerVerified": true
+    },
+    "09ef7f95d9ae187823b905188d94d84e6cbe967875dd1222eda0eddbc14dd508": {
+      "userId": "member-002",
+      "expiresAt": 1795460841194
+    },
+    "5f82fafc9b54c3f03fecfd016bf60410e3d53f91e5e301b3edca54573064e869": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795461215048
+    },
+    "702558c8f6cfb7cbc955f46b565c74e8d13992ce73be634c88d1730041b97a86": {
+      "userId": "owner-harvix",
+      "expiresAt": 1794900348381,
+      "ownerVerified": true
+    },
+    "3d9f5f9da56e8a704720134a39671894fb5f00b484e87b50493532cd217f55aa": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795462341184
+    },
+    "572f0b6f9d92a5c856f0870de0e766730ccdb0800e601390ae4188e28f488e07": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795487695341
+    },
+    "01fe4405996f1a35e44e842cfd1118ff76273fa7befb53b77fc67fba001e5273": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795488217773
+    },
+    "df2f0f5bec3ef48592e784276a2e4b34bbaf1f8ff08522b701622d9c70222e96": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795490050835
+    },
+    "77343a65b0834cf1a7fc1c1f64679f703020cca6bdb1da5d63f240f5a3a1d51d": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795490089158
+    },
+    "429cbe2829a74b84442bd151af48313bdde542bae3bde2853d08f13f88628889": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795490184798
+    },
+    "c877adc887c147f5440b33d17954fb2c227e6c4c804064e38cc1c23280114d05": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795492063659
+    },
+    "fb030aab5beca0724d47637c1f9528676b996e3e612e0275c2bac4c7efc4188a": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795492130747
+    },
+    "4c01cbd43db10e569e63d43a57eb656948da40ad4841e966b9586aa73a9d98ad": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795492167272
+    },
+    "db04406afded8e5db4c6522fff832349942f54b6ea1ae08317f63c5a45cdde5e": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795492217010
+    },
+    "b7f1902a87f102172ded799e52d7ea111b591e30bba2e700795dfa28a1c44798": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795492262481
+    },
+    "33c0c05abe38767652c89e2c96652194e86a70214bedae5736bd885a911bb910": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795493554090
+    },
+    "da2305b601c597c4bcbda4552f77276e7e3a1a709847bf0fd5aeaeaba53cdd70": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795493667744
+    },
+    "58170ba7f0a9289dbe24548e7d57fd60aeee9434cce10b1860abc85c40081ad8": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795493700251
+    },
+    "8d30a82c56c116c0e8881d54e035948758d45903328dfedaf5892e6a936f83f6": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795493727129
+    },
+    "6f0021d51b7a10cf9e5e29f4bf235a89388f54255c227b7333cc9deff63278d8": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795493763869
+    },
+    "f5cf1bbca1fba7ccbab2bbdc48e24c68676cdeea5ddc33084bae374e63ac06fa": {
+      "userId": "owner-harvix",
+      "expiresAt": 1795493854902
+    }
+  },
+  "listeningHistory": {
+    "member-002": [
+      {
+        "videoId": "sK7riqg2mr4",
+        "title": "Agar Tum Saath Ho",
+        "artist": "Alka Yagnik, Arijit Singh",
+        "language": "Hindi",
+        "playedAt": 1731700000000
+      },
+      {
+        "videoId": "JGwWNGJdvx8",
+        "title": "Midnight City",
+        "artist": "M83",
+        "language": "Global",
+        "playedAt": 1731690000000
+      }
+    ],
+    "member-003": [
+      {
+        "videoId": "4-5N_tY9z4s",
+        "title": "52 Gaj Ka Daman",
+        "artist": "Renuka Panwar",
+        "language": "Haryanvi",
+        "playedAt": 1731700000000
+      },
+      {
+        "videoId": "kJQP7kiw5Fk",
+        "title": "Russian Bandana",
+        "artist": "Dhanda Nyoliwala",
+        "language": "Haryanvi",
+        "playedAt": 1731690000000
+      }
+    ],
+    "owner-harvix": [
+      {
+        "videoId": "pUwpLoLlzNQ",
+        "title": "Samjhawan",
+        "artist": "Jawad Ahmed, Sharib Toshi, Arijit Singh, Shreya Ghoshal",
+        "playedAt": 1794887832044
+      },
+      {
+        "videoId": "fsiPzT50ZiM",
+        "title": "Tum Hi Ho",
+        "artist": "Arijit Singh",
+        "playedAt": 1794887828336
+      },
+      {
+        "videoId": "aVPwXQgY2QI",
+        "title": "Raabta (Kehte Hain Khuda Ne)",
+        "artist": "Pritam, Arijit Singh, Shreya Ghoshal, Amitabh Bhattacharya",
+        "playedAt": 1794887826740
+      },
+      {
+        "videoId": "C14askJ1tO8",
+        "title": "Haareya",
+        "artist": "Arijit Singh",
+        "playedAt": 1794887813004
+      },
+      {
+        "videoId": "T94PHkuydcw",
+        "title": "Kun Faya Kun",
+        "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+        "playedAt": 1794887796473
+      },
+      {
+        "videoId": "4NRXx6U8ABQ",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "playedAt": 1794887795477
+      },
+      {
+        "videoId": "BddP6PYo2gs",
+        "title": "Kesariya",
+        "artist": "Arijit Singh, Pritam",
+        "playedAt": 1794887794146
+      },
+      {
+        "videoId": "h4SGsHUr4SA",
+        "title": "Baller",
+        "artist": "Shubh, Ikky",
+        "playedAt": 1794887429470
+      },
+      {
+        "videoId": "u5DCgnh8S9M",
+        "title": "Dil Diyan Gallan (From \"Tiger Zinda Hai\")",
+        "artist": "Vishal and Sheykhar, Atif Aslam",
+        "playedAt": 1794887094565
+      },
+      {
+        "videoId": "I94fhjQ-U30",
+        "title": "Tum Se Hi",
+        "artist": "Pritam, Mohit Chauhan, Irshad Kamil",
+        "playedAt": 1794884655194
+      },
+      {
+        "videoId": "OEo9mz8pljQ",
+        "title": "Cheques",
+        "artist": "Shubh",
+        "playedAt": 1794884648701
+      },
+      {
+        "videoId": "sK7riqg2mr4",
+        "title": "Agar Tum Saath Ho",
+        "artist": "Alka Yagnik, Arijit Singh",
+        "language": "Hindi",
+        "playedAt": 1794883078464
+      },
+      {
+        "videoId": "64eIRd5SgZg",
+        "title": "Fell For You",
+        "artist": "Shubh",
+        "playedAt": 1794882871876
+      }
+    ]
+  },
+  "playHistory": [
+    {
+      "id": "ph-owner-001-BddP6PYo2gs-0",
+      "user_id": "owner-001",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-17T00:13:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-001-BddP6PYo2gs-1",
+      "user_id": "owner-001",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-16T09:06:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-001-BddP6PYo2gs-2",
+      "user_id": "owner-001",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-15T08:59:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-001-BddP6PYo2gs-3",
+      "user_id": "owner-001",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-13T22:52:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-001-BddP6PYo2gs-4",
+      "user_id": "owner-001",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-12T02:45:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-001-BddP6PYo2gs-5",
+      "user_id": "owner-001",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-05T00:38:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-001-4NRXx6U8ABQ-0",
+      "user_id": "owner-001",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-16T22:13:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-001-4NRXx6U8ABQ-1",
+      "user_id": "owner-001",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-15T22:06:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-001-4NRXx6U8ABQ-2",
+      "user_id": "owner-001",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-14T10:59:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-001-4NRXx6U8ABQ-3",
+      "user_id": "owner-001",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-11T08:52:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-001-4NRXx6U8ABQ-4",
+      "user_id": "owner-001",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-02T02:45:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-001-T94PHkuydcw-0",
+      "user_id": "owner-001",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-16T16:13:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-001-T94PHkuydcw-1",
+      "user_id": "owner-001",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-14T23:06:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-001-T94PHkuydcw-2",
+      "user_id": "owner-001",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-12T12:59:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-001-T94PHkuydcw-3",
+      "user_id": "owner-001",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-07T02:52:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-001-T94PHkuydcw-4",
+      "user_id": "owner-001",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-10-28T02:45:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-001-4-5N_tY9z4s-0",
+      "user_id": "owner-001",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-16T05:13:56.365Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-owner-001-4-5N_tY9z4s-1",
+      "user_id": "owner-001",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-13T04:06:56.365Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-owner-001-4-5N_tY9z4s-2",
+      "user_id": "owner-001",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-07T22:59:56.365Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-owner-001-4-5N_tY9z4s-3",
+      "user_id": "owner-001",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-10-31T00:52:56.365Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-owner-001-mH_LFkWxpI0-0",
+      "user_id": "owner-001",
+      "video_id": "mH_LFkWxpI0",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "album_art": "/src/assets/images/crate_cover_bronze_wave_1794853069757.jpg",
+      "played_at": "2026-11-15T17:13:56.365Z",
+      "duration": 24,
+      "album": "MoonChild Era"
+    },
+    {
+      "id": "ph-owner-001-mH_LFkWxpI0-1",
+      "user_id": "owner-001",
+      "video_id": "mH_LFkWxpI0",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "album_art": "/src/assets/images/crate_cover_bronze_wave_1794853069757.jpg",
+      "played_at": "2026-11-10T23:06:56.365Z",
+      "duration": 24,
+      "album": "MoonChild Era"
+    },
+    {
+      "id": "ph-owner-001-mH_LFkWxpI0-2",
+      "user_id": "owner-001",
+      "video_id": "mH_LFkWxpI0",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "album_art": "/src/assets/images/crate_cover_bronze_wave_1794853069757.jpg",
+      "played_at": "2026-11-03T18:59:56.365Z",
+      "duration": 24,
+      "album": "MoonChild Era"
+    },
+    {
+      "id": "ph-owner-001-sK7riqg2mr4-0",
+      "user_id": "owner-001",
+      "video_id": "sK7riqg2mr4",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-14T15:13:56.365Z",
+      "duration": 24,
+      "album": "Tamasha"
+    },
+    {
+      "id": "ph-owner-001-sK7riqg2mr4-1",
+      "user_id": "owner-001",
+      "video_id": "sK7riqg2mr4",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-06T07:06:56.365Z",
+      "duration": 24,
+      "album": "Tamasha"
+    },
+    {
+      "id": "ph-owner-001-sK7riqg2mr4-2",
+      "user_id": "owner-001",
+      "video_id": "sK7riqg2mr4",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-10-26T10:59:56.365Z",
+      "duration": 24,
+      "album": "Tamasha"
+    },
+    {
+      "id": "ph-owner-001-JGwWNGJdvx8-0",
+      "user_id": "owner-001",
+      "video_id": "JGwWNGJdvx8",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-07T03:13:56.365Z",
+      "duration": 24,
+      "album": "Hurry Up, We Are Dreaming"
+    },
+    {
+      "id": "ph-owner-001-JGwWNGJdvx8-1",
+      "user_id": "owner-001",
+      "video_id": "JGwWNGJdvx8",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-01T03:06:56.365Z",
+      "duration": 24,
+      "album": "Hurry Up, We Are Dreaming"
+    },
+    {
+      "id": "ph-owner-001-JGwWNGJdvx8-2",
+      "user_id": "owner-001",
+      "video_id": "JGwWNGJdvx8",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-10-25T02:59:56.365Z",
+      "duration": 24,
+      "album": "Hurry Up, We Are Dreaming"
+    },
+    {
+      "id": "ph-owner-001-kJQP7kiw5Fk-0",
+      "user_id": "owner-001",
+      "video_id": "kJQP7kiw5Fk",
+      "title": "Russian Bandana",
+      "artist": "Dhanda Nyoliwala",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-05T03:13:56.365Z",
+      "duration": 24,
+      "album": "Highway Nights"
+    },
+    {
+      "id": "ph-owner-001-kJQP7kiw5Fk-1",
+      "user_id": "owner-001",
+      "video_id": "kJQP7kiw5Fk",
+      "title": "Russian Bandana",
+      "artist": "Dhanda Nyoliwala",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-10-28T03:06:56.365Z",
+      "duration": 24,
+      "album": "Highway Nights"
+    },
+    {
+      "id": "ph-member-002-BddP6PYo2gs-0",
+      "user_id": "member-002",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-17T00:13:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-member-002-BddP6PYo2gs-1",
+      "user_id": "member-002",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-16T09:06:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-member-002-BddP6PYo2gs-2",
+      "user_id": "member-002",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-15T08:59:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-member-002-BddP6PYo2gs-3",
+      "user_id": "member-002",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-13T22:52:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-member-002-BddP6PYo2gs-4",
+      "user_id": "member-002",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-12T02:45:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-member-002-BddP6PYo2gs-5",
+      "user_id": "member-002",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-05T00:38:56.365Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-member-002-4NRXx6U8ABQ-0",
+      "user_id": "member-002",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-16T22:13:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-member-002-4NRXx6U8ABQ-1",
+      "user_id": "member-002",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-15T22:06:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-member-002-4NRXx6U8ABQ-2",
+      "user_id": "member-002",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-14T10:59:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-member-002-4NRXx6U8ABQ-3",
+      "user_id": "member-002",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-11T08:52:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-member-002-4NRXx6U8ABQ-4",
+      "user_id": "member-002",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-02T02:45:56.365Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-member-002-T94PHkuydcw-0",
+      "user_id": "member-002",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-16T16:13:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-member-002-T94PHkuydcw-1",
+      "user_id": "member-002",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-14T23:06:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-member-002-T94PHkuydcw-2",
+      "user_id": "member-002",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-12T12:59:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-member-002-T94PHkuydcw-3",
+      "user_id": "member-002",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-07T02:52:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-member-002-T94PHkuydcw-4",
+      "user_id": "member-002",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-10-28T02:45:56.365Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-member-002-4-5N_tY9z4s-0",
+      "user_id": "member-002",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-16T05:13:56.365Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-member-002-4-5N_tY9z4s-1",
+      "user_id": "member-002",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-13T04:06:56.365Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-member-002-4-5N_tY9z4s-2",
+      "user_id": "member-002",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-07T22:59:56.365Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-member-002-4-5N_tY9z4s-3",
+      "user_id": "member-002",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-10-31T00:52:56.365Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-member-002-mH_LFkWxpI0-0",
+      "user_id": "member-002",
+      "video_id": "mH_LFkWxpI0",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "album_art": "/src/assets/images/crate_cover_bronze_wave_1794853069757.jpg",
+      "played_at": "2026-11-15T17:13:56.365Z",
+      "duration": 24,
+      "album": "MoonChild Era"
+    },
+    {
+      "id": "ph-member-002-mH_LFkWxpI0-1",
+      "user_id": "member-002",
+      "video_id": "mH_LFkWxpI0",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "album_art": "/src/assets/images/crate_cover_bronze_wave_1794853069757.jpg",
+      "played_at": "2026-11-10T23:06:56.365Z",
+      "duration": 24,
+      "album": "MoonChild Era"
+    },
+    {
+      "id": "ph-member-002-mH_LFkWxpI0-2",
+      "user_id": "member-002",
+      "video_id": "mH_LFkWxpI0",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "album_art": "/src/assets/images/crate_cover_bronze_wave_1794853069757.jpg",
+      "played_at": "2026-11-03T18:59:56.365Z",
+      "duration": 24,
+      "album": "MoonChild Era"
+    },
+    {
+      "id": "ph-member-002-sK7riqg2mr4-0",
+      "user_id": "member-002",
+      "video_id": "sK7riqg2mr4",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-14T15:13:56.365Z",
+      "duration": 24,
+      "album": "Tamasha"
+    },
+    {
+      "id": "ph-member-002-sK7riqg2mr4-1",
+      "user_id": "member-002",
+      "video_id": "sK7riqg2mr4",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-06T07:06:56.365Z",
+      "duration": 24,
+      "album": "Tamasha"
+    },
+    {
+      "id": "ph-member-002-sK7riqg2mr4-2",
+      "user_id": "member-002",
+      "video_id": "sK7riqg2mr4",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-10-26T10:59:56.365Z",
+      "duration": 24,
+      "album": "Tamasha"
+    },
+    {
+      "id": "ph-member-002-JGwWNGJdvx8-0",
+      "user_id": "member-002",
+      "video_id": "JGwWNGJdvx8",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-07T03:13:56.365Z",
+      "duration": 24,
+      "album": "Hurry Up, We Are Dreaming"
+    },
+    {
+      "id": "ph-member-002-JGwWNGJdvx8-1",
+      "user_id": "member-002",
+      "video_id": "JGwWNGJdvx8",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-01T03:06:56.365Z",
+      "duration": 24,
+      "album": "Hurry Up, We Are Dreaming"
+    },
+    {
+      "id": "ph-member-002-JGwWNGJdvx8-2",
+      "user_id": "member-002",
+      "video_id": "JGwWNGJdvx8",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-10-25T02:59:56.365Z",
+      "duration": 24,
+      "album": "Hurry Up, We Are Dreaming"
+    },
+    {
+      "id": "ph-member-002-kJQP7kiw5Fk-0",
+      "user_id": "member-002",
+      "video_id": "kJQP7kiw5Fk",
+      "title": "Russian Bandana",
+      "artist": "Dhanda Nyoliwala",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-05T03:13:56.365Z",
+      "duration": 24,
+      "album": "Highway Nights"
+    },
+    {
+      "id": "ph-member-002-kJQP7kiw5Fk-1",
+      "user_id": "member-002",
+      "video_id": "kJQP7kiw5Fk",
+      "title": "Russian Bandana",
+      "artist": "Dhanda Nyoliwala",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-10-28T03:06:56.365Z",
+      "duration": 24,
+      "album": "Highway Nights"
+    },
+    {
+      "id": "ph-owner-harvix-BddP6PYo2gs-0",
+      "user_id": "owner-harvix",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-17T00:16:31.743Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-harvix-BddP6PYo2gs-1",
+      "user_id": "owner-harvix",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-16T09:09:31.743Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-harvix-BddP6PYo2gs-2",
+      "user_id": "owner-harvix",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-15T09:02:31.743Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-harvix-BddP6PYo2gs-3",
+      "user_id": "owner-harvix",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-13T22:55:31.743Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-harvix-BddP6PYo2gs-4",
+      "user_id": "owner-harvix",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-12T02:48:31.743Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-harvix-BddP6PYo2gs-5",
+      "user_id": "owner-harvix",
+      "video_id": "BddP6PYo2gs",
+      "title": "Kesariya",
+      "artist": "Arijit Singh, Pritam",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-05T00:41:31.743Z",
+      "duration": 24,
+      "album": "Brahmastra"
+    },
+    {
+      "id": "ph-owner-harvix-4NRXx6U8ABQ-0",
+      "user_id": "owner-harvix",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-16T22:16:31.743Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-harvix-4NRXx6U8ABQ-1",
+      "user_id": "owner-harvix",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-15T22:09:31.743Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-harvix-4NRXx6U8ABQ-2",
+      "user_id": "owner-harvix",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-14T11:02:31.743Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-harvix-4NRXx6U8ABQ-3",
+      "user_id": "owner-harvix",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-11T08:55:31.743Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-harvix-4NRXx6U8ABQ-4",
+      "user_id": "owner-harvix",
+      "video_id": "4NRXx6U8ABQ",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-02T02:48:31.743Z",
+      "duration": 24,
+      "album": "After Hours"
+    },
+    {
+      "id": "ph-owner-harvix-T94PHkuydcw-0",
+      "user_id": "owner-harvix",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-16T16:16:31.743Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-harvix-T94PHkuydcw-1",
+      "user_id": "owner-harvix",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-14T23:09:31.743Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-harvix-T94PHkuydcw-2",
+      "user_id": "owner-harvix",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-12T13:02:31.743Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-harvix-T94PHkuydcw-3",
+      "user_id": "owner-harvix",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-07T02:55:31.743Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-harvix-T94PHkuydcw-4",
+      "user_id": "owner-harvix",
+      "video_id": "T94PHkuydcw",
+      "title": "Kun Faya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-10-28T02:48:31.743Z",
+      "duration": 24,
+      "album": "Rockstar"
+    },
+    {
+      "id": "ph-owner-harvix-4-5N_tY9z4s-0",
+      "user_id": "owner-harvix",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-16T05:16:31.743Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-owner-harvix-4-5N_tY9z4s-1",
+      "user_id": "owner-harvix",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-13T04:09:31.743Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-owner-harvix-4-5N_tY9z4s-2",
+      "user_id": "owner-harvix",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-07T23:02:31.743Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-owner-harvix-4-5N_tY9z4s-3",
+      "user_id": "owner-harvix",
+      "video_id": "4-5N_tY9z4s",
+      "title": "52 Gaj Ka Daman",
+      "artist": "Renuka Panwar",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-10-31T00:55:31.743Z",
+      "duration": 24,
+      "album": "Haryanvi Vault"
+    },
+    {
+      "id": "ph-owner-harvix-mH_LFkWxpI0-0",
+      "user_id": "owner-harvix",
+      "video_id": "mH_LFkWxpI0",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "album_art": "/src/assets/images/crate_cover_bronze_wave_1794853069757.jpg",
+      "played_at": "2026-11-15T17:16:31.743Z",
+      "duration": 24,
+      "album": "MoonChild Era"
+    },
+    {
+      "id": "ph-owner-harvix-mH_LFkWxpI0-1",
+      "user_id": "owner-harvix",
+      "video_id": "mH_LFkWxpI0",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "album_art": "/src/assets/images/crate_cover_bronze_wave_1794853069757.jpg",
+      "played_at": "2026-11-10T23:09:31.743Z",
+      "duration": 24,
+      "album": "MoonChild Era"
+    },
+    {
+      "id": "ph-owner-harvix-mH_LFkWxpI0-2",
+      "user_id": "owner-harvix",
+      "video_id": "mH_LFkWxpI0",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh",
+      "album_art": "/src/assets/images/crate_cover_bronze_wave_1794853069757.jpg",
+      "played_at": "2026-11-03T19:02:31.743Z",
+      "duration": 24,
+      "album": "MoonChild Era"
+    },
+    {
+      "id": "ph-owner-harvix-sK7riqg2mr4-0",
+      "user_id": "owner-harvix",
+      "video_id": "sK7riqg2mr4",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-14T15:16:31.743Z",
+      "duration": 24,
+      "album": "Tamasha"
+    },
+    {
+      "id": "ph-owner-harvix-sK7riqg2mr4-1",
+      "user_id": "owner-harvix",
+      "video_id": "sK7riqg2mr4",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-06T07:09:31.743Z",
+      "duration": 24,
+      "album": "Tamasha"
+    },
+    {
+      "id": "ph-owner-harvix-sK7riqg2mr4-2",
+      "user_id": "owner-harvix",
+      "video_id": "sK7riqg2mr4",
+      "title": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-10-26T11:02:31.743Z",
+      "duration": 24,
+      "album": "Tamasha"
+    },
+    {
+      "id": "ph-owner-harvix-JGwWNGJdvx8-0",
+      "user_id": "owner-harvix",
+      "video_id": "JGwWNGJdvx8",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-07T03:16:31.743Z",
+      "duration": 24,
+      "album": "Hurry Up, We Are Dreaming"
+    },
+    {
+      "id": "ph-owner-harvix-JGwWNGJdvx8-1",
+      "user_id": "owner-harvix",
+      "video_id": "JGwWNGJdvx8",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-11-01T03:09:31.743Z",
+      "duration": 24,
+      "album": "Hurry Up, We Are Dreaming"
+    },
+    {
+      "id": "ph-owner-harvix-JGwWNGJdvx8-2",
+      "user_id": "owner-harvix",
+      "video_id": "JGwWNGJdvx8",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album_art": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+      "played_at": "2026-10-25T03:02:31.743Z",
+      "duration": 24,
+      "album": "Hurry Up, We Are Dreaming"
+    },
+    {
+      "id": "ph-owner-harvix-kJQP7kiw5Fk-0",
+      "user_id": "owner-harvix",
+      "video_id": "kJQP7kiw5Fk",
+      "title": "Russian Bandana",
+      "artist": "Dhanda Nyoliwala",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-11-05T03:16:31.743Z",
+      "duration": 24,
+      "album": "Highway Nights"
+    },
+    {
+      "id": "ph-owner-harvix-kJQP7kiw5Fk-1",
+      "user_id": "owner-harvix",
+      "video_id": "kJQP7kiw5Fk",
+      "title": "Russian Bandana",
+      "artist": "Dhanda Nyoliwala",
+      "album_art": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+      "played_at": "2026-10-28T03:09:31.743Z",
+      "duration": 24,
+      "album": "Highway Nights"
+    }
+  ],
+  "playHistorySettings": {},
+  "personalMixCache": {
+    "member-002": {
+      "tracks": [
+        {
+          "id": "I94fhjQ-U30",
+          "videoId": "I94fhjQ-U30",
+          "title": "Tum Se Hi",
+          "artist": "Pritam, Mohit Chauhan, Irshad Kamil",
+          "album": "Jab We Met",
+          "duration": 322,
+          "artworkUrl": "https://yt3.googleusercontent.com/CPzJYhlere1R9fbIVmSf9qt0dbAGS39LQ0VfpzyT4phzOdmHzDric4KJ9losK6JWDB8JsQH3SioMVGJV=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "iQnRCdtECl8",
+          "videoId": "iQnRCdtECl8",
+          "title": "Wait",
+          "artist": "M83",
+          "album": "Hurry up, We're Dreaming",
+          "duration": 344,
+          "artworkUrl": "https://yt3.googleusercontent.com/FtKxpe4wQSomNk3HGvUMyqHTyy6h56Oey4dJhPJeioRIMCvXVj1pRCHo1zBCTYYoRXQEVgNDfhB1Hg2O=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "pUwpLoLlzNQ",
+          "videoId": "pUwpLoLlzNQ",
+          "title": "Samjhawan",
+          "artist": "Jawad Ahmed, Sharib Toshi, Arijit Singh, Shreya Ghoshal",
+          "album": "Samjhawan",
+          "duration": 270,
+          "artworkUrl": "https://yt3.googleusercontent.com/DaNYaIF7k-oNb2Ndmw9sMeL4ZX6ycPeGJaUaiMOyMhitPujRa0sygmmy8ODHqzARaVE_rVaT4ZlHJu4=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "S_wT1WCWXpc",
+          "videoId": "S_wT1WCWXpc",
+          "title": "Kim & Jessie",
+          "artist": "M83",
+          "album": "Saturdays = Youth",
+          "duration": 324,
+          "artworkUrl": "https://yt3.googleusercontent.com/h4cpU0k7KrmTQ--DzN0GQCF0OgZvjuf3tBQzrDTd9QPdoIGSRpfXQG4uGLYmFJNPmOmXciDweg4vG-ZV=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "aVPwXQgY2QI",
+          "videoId": "aVPwXQgY2QI",
+          "title": "Raabta (Kehte Hain Khuda Ne)",
+          "artist": "Pritam, Arijit Singh, Shreya Ghoshal, Amitabh Bhattacharya",
+          "album": "Agent Vinod",
+          "duration": 290,
+          "artworkUrl": "https://yt3.googleusercontent.com/6LxvTuAggHEs4fkqMwtTsspSf58-T7-ThAnw4aRWn1XV5XA63QNOHxnVxhcGbiAgF66eAG8LVv9yBZU=w1200-h1200",
+          "source": "ytmusic"
+        }
+      ],
+      "historyCount": 2,
+      "prefsSignature": "||",
+      "updatedAt": 1794856043316
+    },
+    "owner-harvix": {
+      "tracks": [
+        {
+          "id": "SDQdGibJ9mE",
+          "videoId": "SDQdGibJ9mE",
+          "title": "Mast Magan (From \"2 States)",
+          "artist": "Arijit Singh, Chinmayi Sripada",
+          "album": "Love Dose Arijit Singh",
+          "duration": 281,
+          "artworkUrl": "https://yt3.googleusercontent.com/Uf3FU8ElyrFboJFBiyva4RPgj7LBkm43iJ4srRMJ4Z2-PmYlxzB3uvsMWzXlXfrBYwYrVnqlAcurYVoUew=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "lSPNH_rYKIg",
+          "videoId": "lSPNH_rYKIg",
+          "title": "Ilahi",
+          "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+          "album": "Yeh Jawaani Hai Deewani",
+          "duration": 229,
+          "artworkUrl": "https://yt3.googleusercontent.com/VntG-wCxAVI2qbU-8vhRDY3oBYbuaQKMNmVBFhrxtjZY_To1i8VZDHu0Vz_8kxHh2pxZZ9YiXBNemI-5=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "C2vZeA5StVw",
+          "videoId": "C2vZeA5StVw",
+          "title": "Noor (From \"Smile\")",
+          "artist": "Shubh",
+          "album": "Noor (From \"Smile\")",
+          "duration": 204,
+          "artworkUrl": "https://yt3.googleusercontent.com/4Fwc-ITMBZJqV8vku37HPJ9pObkdOdRUjSNptOfmD5Cg6dh5SDeAnTojWbO-H7GkeNuoHXuuUQ26RyA=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "XT_ANSoov00",
+          "videoId": "XT_ANSoov00",
+          "title": "Phir Le Aya Dil (Reprise)",
+          "artist": "Pritam, Arijit Singh, Sayeed Quadri",
+          "album": "Barfi! (Original Motion Picture Soundtrack)",
+          "duration": 306,
+          "artworkUrl": "https://yt3.googleusercontent.com/W3crfuGhM-7bR81I9dSXDfM99SGWeGLEqSS29DtIw23ITd7nlLzTC1dXHgMxsxLxlPTcvqFp2Hnq4D3V=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "reBEkYrqMhA",
+          "videoId": "reBEkYrqMhA",
+          "title": "Gerua",
+          "artist": "Pritam, Arijit Singh, Antara Mitra",
+          "album": "Dilwale (Original Motion Picture Soundtrack)",
+          "duration": 346,
+          "artworkUrl": "https://yt3.googleusercontent.com/7FxbxKIussM0Pu0YJa9eXy2eN9-f8g82NFoKpeepDQavqn_Auja9TzR_9b1wgMrfHQrGDLOtQymO-PfZ=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "BddP6PYo2gs",
+          "videoId": "BddP6PYo2gs",
+          "title": "Kesariya",
+          "artist": "Arijit Singh, Pritam",
+          "album": "Brahmastra",
+          "duration": 24,
+          "artworkUrl": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+          "language": "Hindi",
+          "source": "curated"
+        },
+        {
+          "id": "4-5N_tY9z4s",
+          "videoId": "4-5N_tY9z4s",
+          "title": "52 Gaj Ka Daman",
+          "artist": "Renuka Panwar",
+          "album": "Haryanvi Vault",
+          "duration": 24,
+          "artworkUrl": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+          "language": "Haryanvi",
+          "source": "curated"
+        },
+        {
+          "id": "4NRXx6U8ABQ",
+          "videoId": "4NRXx6U8ABQ",
+          "title": "Blinding Lights",
+          "artist": "The Weeknd",
+          "album": "After Hours",
+          "duration": 24,
+          "artworkUrl": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+          "language": "Global",
+          "source": "curated"
+        },
+        {
+          "id": "sK7riqg2mr4",
+          "videoId": "sK7riqg2mr4",
+          "title": "Agar Tum Saath Ho",
+          "artist": "Alka Yagnik, Arijit Singh",
+          "album": "Tamasha",
+          "duration": 24,
+          "artworkUrl": "/src/assets/images/crate_cover_tube_amp_1794853069419.jpg",
+          "language": "Hindi",
+          "source": "curated"
+        },
+        {
+          "id": "kJQP7kiw5Fk",
+          "videoId": "kJQP7kiw5Fk",
+          "title": "Russian Bandana",
+          "artist": "Dhanda Nyoliwala",
+          "album": "Highway Nights",
+          "duration": 24,
+          "artworkUrl": "/src/assets/images/crate_cover_amber_vinyl_1794853068265.jpg",
+          "language": "Haryanvi",
+          "source": "curated"
+        }
+      ],
+      "historyCount": 13,
+      "prefsSignature": "||",
+      "updatedAt": 1794888756566
+    }
+  },
+  "ownerAuth": {
+    "totpSecret": "FGGT4DF62EMR5NYBQC767PMH3KTL3WNA",
+    "totpEnrolled": true
+  },
+  "customPlaylists": [
+    {
+      "id": "sp-37i9dQZF1DXcBWIGoYBM5M",
+      "name": "Today’s Top Hits",
+      "description": "Imported from Spotify · Spotify · 50 tracks",
+      "coverUrl": "https://i.scdn.co/image/ab67706f00000002f04528c743e20039ac4eff07",
+      "accent": "rose",
+      "tracks": [
+        {
+          "id": "ljAH6jNaApU",
+          "videoId": "ljAH6jNaApU",
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline, rusowsky",
+          "album": "Today’s Top Hits",
+          "duration": 226,
+          "artworkUrl": "https://yt3.googleusercontent.com/GdW-pwzDkHLGvvf0pe_dgTcBYkJ2UFgsW6Zldnxyz-kX3l8I-QrRMow8IooEm7njIEAJauyWfoSV1rM=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "FXk4oLgkKL0",
+          "videoId": "FXk4oLgkKL0",
+          "title": "Housewife",
+          "artist": "Tate McRae",
+          "album": "Today’s Top Hits",
+          "duration": 209,
+          "artworkUrl": "https://yt3.googleusercontent.com/lrCR7qsG1QldUGomffApTA7U1IY_wG0OCuyxz0WRMzKCPNZJ8gqqJ7PfubJnY4DQJBBNzyADKaDbdZOM=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "WNxAvQNsJuM",
+          "videoId": "WNxAvQNsJuM",
+          "title": "Stop The Wedding!",
+          "artist": "Ashe",
+          "album": "Today’s Top Hits",
+          "duration": 199,
+          "artworkUrl": "https://yt3.googleusercontent.com/Pb_jrbkZdK0Kr5z6HWxDMWAT1wOLEOm1O_UstuoXG6sok8q-tOonKxEfABLDVzXjWI95VhDONQl6HxV7=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "h-zuG75Ds-w",
+          "videoId": "h-zuG75Ds-w",
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA",
+          "album": "Today’s Top Hits",
+          "duration": 181,
+          "artworkUrl": "https://yt3.googleusercontent.com/mHa1sg5pmlgudnTZ_XOcJ-0VAKuFDodEstxurIF2C6RttpfyyeaqC75FmPQjlc2BQQ5JfvGaFuU69dhs=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "9KcnxA36s04",
+          "videoId": "9KcnxA36s04",
+          "title": "expectations (feat. Chappell Roan)",
+          "artist": "Olivia Rodrigo, Chappell Roan",
+          "album": "Today’s Top Hits",
+          "duration": 224,
+          "artworkUrl": "https://yt3.googleusercontent.com/XNVcF4Tzqi1bHPTRA6DdksTUwmKV4Q3132yVKZxfGPbEbjPrcnQxTLWX9_X_20RqanGf411BUmmNb1fU=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "BI9HQCzpDgQ",
+          "videoId": "BI9HQCzpDgQ",
+          "title": "Earrings",
+          "artist": "Malcolm Todd",
+          "album": "Today’s Top Hits",
+          "duration": 152,
+          "artworkUrl": "https://yt3.googleusercontent.com/sm9gz2XQFzc-Gp7qsQzIJGuIsowoyVI43ki4048evRTzCi8IN2FcTyv42YttCDRH-93amTRkG05hqnOK=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "-YOpbOA8-5o",
+          "videoId": "-YOpbOA8-5o",
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande",
+          "album": "Today’s Top Hits",
+          "duration": 198,
+          "artworkUrl": "https://yt3.googleusercontent.com/6LDZTIjk3nbSSsG8J0M2_ME4KWzt4MTZ7oqrZlWg-uZ1gRWnBKt9ySPibZ5l7GJ_-j6gB6hv-qLNaPE=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "_5-Dzam3jPU",
+          "videoId": "_5-Dzam3jPU",
+          "title": "Great Expectation",
+          "artist": "SIENNA SPIRO",
+          "album": "Today’s Top Hits",
+          "duration": 174,
+          "artworkUrl": "https://yt3.googleusercontent.com/N-SBeSkXpxC-Okj00Up8kUUl-CQXJmbdtkRpcO3FktG2zDeePuwDcw_B1G3ymaAxBOUN4qL85HRSkUvO=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "V-uIp-WuD60",
+          "videoId": "V-uIp-WuD60",
+          "title": "Patient Zero",
+          "artist": "Taylor Swift",
+          "album": "Today’s Top Hits",
+          "duration": 226,
+          "artworkUrl": "https://yt3.googleusercontent.com/DNFuGZeuZ7vGTxa49zFs3YNAwA-TOTVXYRFqPt3RQGmq0vK2zbLyTxJHxc88dShIoQrfQUiIugawXoK_=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "MX7FSAnRPug",
+          "videoId": "MX7FSAnRPug",
+          "title": "Loser",
+          "artist": "Tame Impala",
+          "album": "Today’s Top Hits",
+          "duration": 223,
+          "artworkUrl": "https://yt3.googleusercontent.com/qHqGMmCC4LahCshElRTm8kuJQu4IyDClDx__HiqqydFVMUi2JOfEyZpqootNb1WswJwapw8c8SCmOMuMiQ=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "fO_Z9W1OEfs",
+          "videoId": "fO_Z9W1OEfs",
+          "title": "Coming Up Roses",
+          "artist": "Harry Styles",
+          "album": "Today’s Top Hits",
+          "duration": 249,
+          "artworkUrl": "https://yt3.googleusercontent.com/koNudWa-8bgEZ4dui8Yag2Le799C4UCkjb1MjQ_EoW_KPMjcHxqs3XIDqzaJ72M6yv6WegN6RTdL9NkttA=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "7MAs5b7EJyc",
+          "videoId": "7MAs5b7EJyc",
+          "title": "Babydoll",
+          "artist": "Jamie Miller",
+          "album": "Today’s Top Hits",
+          "duration": 179,
+          "artworkUrl": "https://yt3.googleusercontent.com/kJfU1ReE3SNAMamgEMmhwoLThQehu3c5wbRKP6X9koetAZEY-CoXFzfZPxMkdxkyGeKLrRi_z76KOruQ9g=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "xukbqwRuN5w",
+          "videoId": "xukbqwRuN5w",
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley",
+          "album": "Today’s Top Hits",
+          "duration": 232,
+          "artworkUrl": "https://yt3.googleusercontent.com/pXFQCa7a4g8yaLQOuE2y0zWK4X0A9Kdjx1PTC_KICZc9OEgahsFl-F6VBihBNOLAiYX7XnuPqaC4Yio=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "lFQdcPTTzSg",
+          "videoId": "lFQdcPTTzSg",
+          "title": "Dai Dai",
+          "artist": "Shakira, Burna Boy",
+          "album": "Today’s Top Hits",
+          "duration": 223,
+          "artworkUrl": "https://yt3.googleusercontent.com/moXpr_lvHpb9m70jTjr-0GE63_VyHivgmyH7UPBJmgwWPHwwmvhxDPPZtdAhCFo7CdzmzIGwBE3cn4VuCQ=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "fsGjRf-N71I",
+          "videoId": "fsGjRf-N71I",
+          "title": "Man I Need",
+          "artist": "Olivia Dean",
+          "album": "Today’s Top Hits",
+          "duration": 184,
+          "artworkUrl": "https://yt3.googleusercontent.com/dmrLFXnrV4zb8-mfiEMJJrJ5v3DXHrwgPKgISOFb39fsZ39vsLa1lMZTQmo9oxWG7p1V5cK5-51HWXaZug=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "cmzCwz4NkOA",
+          "videoId": "cmzCwz4NkOA",
+          "title": "the cure",
+          "artist": "Olivia Rodrigo",
+          "album": "Today’s Top Hits",
+          "duration": 297,
+          "artworkUrl": "https://yt3.googleusercontent.com/REA_Otoa5g-YBrDU0lRxSPu5YBP3tZHiIs2DWnO9mqXRZjTWDXyL8Zv83I56-Benty2h5Q0UzX9xBw7g=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "UnuEzP1rDLY",
+          "videoId": "UnuEzP1rDLY",
+          "title": "Babydoll",
+          "artist": "Dominic Fike",
+          "album": "Today’s Top Hits",
+          "duration": 98,
+          "artworkUrl": "https://yt3.googleusercontent.com/whp_-mcgsovG5T-EAeunhXn5cOeOI0aW0mj3KM7hq9Sv0WcofRjqZGa8hivnG68fEaNvmn6J3g6r6Lc=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "R-hYM3BqTbA",
+          "videoId": "R-hYM3BqTbA",
+          "title": "Self Aware",
+          "artist": "Temper City",
+          "album": "Today’s Top Hits",
+          "duration": 181,
+          "artworkUrl": "https://yt3.googleusercontent.com/wqA2-kB1LEmV3MsLsYK-a3yDSSHYptyb31XJMbGxc1_c-CylylLpDh3hbhV2A4Y49SNgQU_eGbAKMKk=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "nyNm-dVBMoo",
+          "videoId": "nyNm-dVBMoo",
+          "title": "Ain't In LA",
+          "artist": "ADÉLA",
+          "album": "Today’s Top Hits",
+          "duration": 185,
+          "artworkUrl": "https://yt3.googleusercontent.com/mHa1sg5pmlgudnTZ_XOcJ-0VAKuFDodEstxurIF2C6RttpfyyeaqC75FmPQjlc2BQQ5JfvGaFuU69dhs=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "vOfyxPRunFM",
+          "videoId": "vOfyxPRunFM",
+          "title": "Animal",
+          "artist": "KATSEYE",
+          "album": "Today’s Top Hits",
+          "duration": 158,
+          "artworkUrl": "https://yt3.googleusercontent.com/3T-9QCKvZ6etaiDhX-2WSpd5z5Y3X84ND9TNX944mQR_kimjTFAqe2a69BUvHqcW8nRcOdNbu4n-U80Yvw=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "NO3JTAsB4NI",
+          "videoId": "NO3JTAsB4NI",
+          "title": "Rein Me In (with Olivia Dean)",
+          "artist": "Sam Fender, Olivia Dean",
+          "album": "Today’s Top Hits",
+          "duration": 339,
+          "artworkUrl": "https://yt3.googleusercontent.com/rOSd4qA6CzA16BWhgstpccb0Vc--ZgzhGEVvzu9ycQA3ocDcH-lX2wnBU2B1a7jQV6m6bHIlEVAg58SL=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "94mq0YBsn8U",
+          "videoId": "94mq0YBsn8U",
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "album": "Today’s Top Hits",
+          "duration": 197,
+          "artworkUrl": "https://yt3.googleusercontent.com/6QK6BrV6a5hUjS7VZ_MRTKqN-sYXofTm65KIi8VqFVYQ7x7OdklKmJ3OpM9KW4VXW5U6ejgQlQJWZ08LEA=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "BF2_ipR1OI0",
+          "videoId": "BF2_ipR1OI0",
+          "title": "Risk It All",
+          "artist": "Bruno Mars",
+          "album": "Today’s Top Hits",
+          "duration": 204,
+          "artworkUrl": "https://yt3.googleusercontent.com/_1ejRnxNSULMWdqN8F-gEGUVfw5kZKrwKy5xNPnSxU6Xen61q09zCR1aQn4s4L9rDOi-fGnTh3qI-LwE=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "JBbSlADtG-g",
+          "videoId": "JBbSlADtG-g",
+          "title": "UNETHICAL",
+          "artist": "Faouzia",
+          "album": "Today’s Top Hits",
+          "duration": 220,
+          "artworkUrl": "https://yt3.googleusercontent.com/YSqiMalFQbItkQVOJXa6jb0nOwzgYktRvq7dvQysZwTAez_U_H9prMkYEh7wNXhd1VQgz-xiPy9n8xNf=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "of6KPs4PTN0",
+          "videoId": "of6KPs4PTN0",
+          "title": "Orbiter",
+          "artist": "Noah Kahan",
+          "album": "Today’s Top Hits",
+          "duration": 287,
+          "artworkUrl": "https://yt3.googleusercontent.com/-FBlLmA_F3jfnC--AubFrjT6BRX2Zbe1y1L-CpBXvsko-Isx7EpzkImKnBvWRNwR41DFhlF7QfXa33Tg=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "xdkr6GJrBOs",
+          "videoId": "xdkr6GJrBOs",
+          "title": "Lies (feat. Lana Del Rey)",
+          "artist": "Zach Bryan, Lana Del Rey",
+          "album": "Today’s Top Hits",
+          "duration": 221,
+          "artworkUrl": "https://yt3.googleusercontent.com/Knpoe-NEDJENyi4XPnB2R3o8r8NlT8G7GJvW7fX9l7zurU-E2pX2_35Q_QFpmCaezYt6SY2gUXwlZXq9Zg=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "P7VgXIZSN_w",
+          "videoId": "P7VgXIZSN_w",
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo",
+          "album": "Today’s Top Hits",
+          "duration": 210,
+          "artworkUrl": "https://yt3.googleusercontent.com/q0szuVtXvUdftTC8k9fjwazdEpoaCyWTZ1d5Xa3GWHhQPD6_59W_rPlmZRFa2rSFPLTmfOGEgvPfF9uBVg=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "poblks2Qk04",
+          "videoId": "poblks2Qk04",
+          "title": "Angel Of My Dreams",
+          "artist": "JADE",
+          "album": "Today’s Top Hits",
+          "duration": 198,
+          "artworkUrl": "https://yt3.googleusercontent.com/KOr2OFWed7hqCJvxNyCPik_MtIvwJzx3Ks3lZrYQ-ZUxpTfNZsTNEVCVOr0Nfmok3sHbnlHp3T6SFAQn=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "1qmrq6I_jHI",
+          "videoId": "1qmrq6I_jHI",
+          "title": "Raindance (feat. Tems)",
+          "artist": "Dave, Tems",
+          "album": "Today’s Top Hits",
+          "duration": 220,
+          "artworkUrl": "https://yt3.googleusercontent.com/jy3_SUdI0E_08t3WijpZKLjOu-HfpZv94s6P3hZcIVic2P6z4B0RGdf3TSI5xloGfa8GS84ly34bKvwHfA=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "yuIB3jmC_0M",
+          "videoId": "yuIB3jmC_0M",
+          "title": "STORM II",
+          "artist": "GENER8ION, Yung Lean",
+          "album": "Today’s Top Hits",
+          "duration": 173,
+          "artworkUrl": "https://yt3.googleusercontent.com/pWQjy5MPyAKZOCKVK4Lwl652zGhrGi6KQKxIgp6D1b8jv29nCDzvf-VSSv0r4Ht5DGGwCC2LGe4uyzU=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "TiebZllW8As",
+          "videoId": "TiebZllW8As",
+          "title": "DtMF",
+          "artist": "Bad Bunny",
+          "album": "Today’s Top Hits",
+          "duration": 237,
+          "artworkUrl": "https://yt3.googleusercontent.com/yBcpSTWxVqyJr7enMy7HFv14Yb8p1jI5AS5o49Cvbeyc6zjvCvdLn_0_iAxz50MqxLx6hQDngWBeaC26=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "iHsObIWkM-s",
+          "videoId": "iHsObIWkM-s",
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress, Zara Larsson",
+          "album": "Today’s Top Hits",
+          "duration": 185,
+          "artworkUrl": "https://yt3.googleusercontent.com/VuDZw8RqRz6k8mVrxE6gt3GTYPc2WQUULHmhqzr8LtwTK8UqZSGQmzuQ8JXIgmNHfOwPyGiBoWy2QVIVRA=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "2zPGWGqdfJ8",
+          "videoId": "2zPGWGqdfJ8",
+          "title": "oh yeah?",
+          "artist": "Steve Lacy",
+          "album": "Today’s Top Hits",
+          "duration": 171,
+          "artworkUrl": "https://yt3.googleusercontent.com/Uj5cYGSdnLCHlw6leWNwDQ6VcjgrNTAfZ-9LAceGci14yOMTwEPlSpMaxyLLCPUVerftYRSlSmuT5t5C=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "BXxgjiHeePI",
+          "videoId": "BXxgjiHeePI",
+          "title": "Tarantino",
+          "artist": "LISA",
+          "album": "Today’s Top Hits",
+          "duration": 171,
+          "artworkUrl": "https://yt3.googleusercontent.com/X6shh2YTShbeZhJHkzuyzcsdyaGMVtTyGecA8X03GuiiD4Aggf-99vMMmdoUfoma0PgZT6xUka1UyMk=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "x30_IHP1x3s",
+          "videoId": "x30_IHP1x3s",
+          "title": "Janice STFU",
+          "artist": "Drake",
+          "album": "Today’s Top Hits",
+          "duration": 237,
+          "artworkUrl": "https://yt3.googleusercontent.com/HUyruy7aJyHrNv_ZwxLDgReoxZULjLLvbaU9qARvp9VvZ8LDRA4Qja-ZUFhhwN0wEg-EFKnhdZzGM04m=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "7f_mlKlOLMo",
+          "videoId": "7f_mlKlOLMo",
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean",
+          "album": "Today’s Top Hits",
+          "duration": 169,
+          "artworkUrl": "https://yt3.googleusercontent.com/dmrLFXnrV4zb8-mfiEMJJrJ5v3DXHrwgPKgISOFb39fsZ39vsLa1lMZTQmo9oxWG7p1V5cK5-51HWXaZug=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "C0Z3iKSkXOA",
+          "videoId": "C0Z3iKSkXOA",
+          "title": "Here You Come, There You Go",
+          "artist": "Gracie Abrams",
+          "album": "Today’s Top Hits",
+          "duration": 171,
+          "artworkUrl": "https://yt3.googleusercontent.com/TzrRrWnYc8YlaCrUI17w1k1a9PuOkdZ_c-A5pibxq3E0Fq6fuafZHbncQ5XmlJnReKli-8YegQwgQIYX=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "E9onENVBmKY",
+          "videoId": "E9onENVBmKY",
+          "title": "Homewrecker",
+          "artist": "sombr",
+          "album": "Today’s Top Hits",
+          "duration": 209,
+          "artworkUrl": "https://yt3.googleusercontent.com/j75nRhWXJf_EUFoIz6KZ4KzBBGvSv6lAHVSjoofP7ndFBwOlvYGDeZ-c0uN2hEyDUPfk5u6AlriKNI4=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "ENXLhu3UYto",
+          "videoId": "ENXLhu3UYto",
+          "title": "Suzuki (from GTAVI: The Album)",
+          "artist": "Fuerza Regida, Grand Theft Auto VI",
+          "album": "Today’s Top Hits",
+          "duration": 112,
+          "artworkUrl": "https://yt3.googleusercontent.com/cTcd7-TbhiLVY7gDkaPuLiUpJAa_khxyPYeSh7eOSt8BvwYGDY2BtedXeakZgpqjDpXCX3aXTFzkLCm0wA=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "OzAmRkR33eo",
+          "videoId": "OzAmRkR33eo",
+          "title": "Boston",
+          "artist": "STELLA LEFTY",
+          "album": "Today’s Top Hits",
+          "duration": 171,
+          "artworkUrl": "https://yt3.googleusercontent.com/wnsZ1luqa2AZU7raeptWvqPa_ONkx5LLl9WkfY5gCXN4dJumdoHvaRy_Vf_8MZTNbU8U4egFHZoRH_hkCw=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "EjvAa0RxDLo",
+          "videoId": "EjvAa0RxDLo",
+          "title": "Stuck",
+          "artist": "LANY",
+          "album": "Today’s Top Hits",
+          "duration": 184,
+          "artworkUrl": "https://yt3.googleusercontent.com/N8WkGLE7liMts1rvYjCs_ThfZbl1fkfb5szVdeI0btZ8HxehzbH4QCx_mDVjnk9LlImHSAFxpWin16E=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "qsqvJpOgrWw",
+          "videoId": "qsqvJpOgrWw",
+          "title": "You’re Under Arrest",
+          "artist": "ILLIT",
+          "album": "Today’s Top Hits",
+          "duration": 182,
+          "artworkUrl": "https://yt3.googleusercontent.com/EQNyUqxuYcONem8DYLwrXvMdc0rs-ryUcSgdgpxVkqtx53WRKr5YtBwEnaHBgnN5iWk90JBbdkrpSq4=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "CLSuAhT71yU",
+          "videoId": "CLSuAhT71yU",
+          "title": "bloodstream",
+          "artist": "Alyssa Grace",
+          "album": "Today’s Top Hits",
+          "duration": 177,
+          "artworkUrl": "https://yt3.googleusercontent.com/irMK0QD_AIIHbF34Gynz-exu2ZkpOPvH15az6SUcRO00tweP0qcVbxYdJYfEUCEDjvs8S7OrHTYyzHs=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "i34pFNr42mc",
+          "videoId": "i34pFNr42mc",
+          "title": "Jamaican (Bam Bam)",
+          "artist": "HUGEL, SOLTO (FR)",
+          "album": "Today’s Top Hits",
+          "duration": 156,
+          "artworkUrl": "https://yt3.googleusercontent.com/MjVc50qoqvxgh2Axcechzk8DZQ2wE3SJKYphm4PcPGfsPDcqplJGkTJF8R4Vqqs87WUk9tVRGXyNMLg=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "sGgMHiRiklo",
+          "videoId": "sGgMHiRiklo",
+          "title": "Midnight Sun",
+          "artist": "Zara Larsson",
+          "album": "Today’s Top Hits",
+          "duration": 190,
+          "artworkUrl": "https://yt3.googleusercontent.com/1serZIMWrmAfbEHsJ_nI1Pn3FrMvD8GZAIHw9d7N49bqtVLVIqYo1MZTMbqGKqWXHcGVP8qseoe9DqVxtQ=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "4rDMvIZ4nWE",
+          "videoId": "4rDMvIZ4nWE",
+          "title": "NOBLE",
+          "artist": "F3miii",
+          "album": "Today’s Top Hits",
+          "duration": 186,
+          "artworkUrl": "https://yt3.googleusercontent.com/T-39Yp4Depx6HS9vWqp4HFEg1FfZ72cAqqP3m3xb6d31l1CpW28FskOEq9bKfK-gDAw7MXytpp6-rps=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "qZTVU04UOO4",
+          "videoId": "qZTVU04UOO4",
+          "title": "SWIM",
+          "artist": "BTS",
+          "album": "Today’s Top Hits",
+          "duration": 159,
+          "artworkUrl": "https://yt3.googleusercontent.com/sYmiMIdJAVZwkPluf8yQMI4qxuuZrU1OLOiwNEEgV1z7q6JhNQ_m7TqJbcxioiywmvBLuOJFK4YAgUnk=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "g1yLv1VCkwg",
+          "videoId": "g1yLv1VCkwg",
+          "title": "IMPULSIVE",
+          "artist": "Thekidszn",
+          "album": "Today’s Top Hits",
+          "duration": 156,
+          "artworkUrl": "https://yt3.googleusercontent.com/iHFR1lAQP7KoxuHVGr8Va-cGFSvABrggzugBjY2FZerU9TSZ88G6mkdIeEgRi8xa8X8_dCZu2QJnEYA=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "BqaUS8slDPY",
+          "videoId": "BqaUS8slDPY",
+          "title": "WHITE KEYS",
+          "artist": "Dominic Fike",
+          "album": "Today’s Top Hits",
+          "duration": 144,
+          "artworkUrl": "https://yt3.googleusercontent.com/678GIB0a2_6teDoS6aw1gAyJmRCVVZ8bBTEd7M7xfabHjHVVnV4b8uc_BIWqmIuEtbiyNLNlaeEkPaWl=w1200-h1200",
+          "source": "ytmusic"
+        },
+        {
+          "id": "3nxq0f8-VU0",
+          "videoId": "3nxq0f8-VU0",
+          "title": "Talk To You (ft. 54 Ultra)",
+          "artist": "ANOTR, 54 Ultra",
+          "album": "Today’s Top Hits",
+          "duration": 191,
+          "artworkUrl": "https://yt3.googleusercontent.com/NwjxGWbDcynHI5l7SettXFugGM4EMNpTdNP7kHda2LxHsgpRracC55cZ5gU5RxNeDx72NGFFkPqmCFrc=w1200-h1200",
+          "source": "ytmusic"
+        }
+      ]
+    }
+  ],
+  "deletedPlaylistIds": [],
+  "curatedPlaylistOverrides": {}
+}

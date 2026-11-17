@@ -1,0 +1,120 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-display: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+
+    /* Obsidian Vinyl & Warm Vacuum-Tube Amber Palette */
+    --crate-amber: #E8A849;
+    --crate-amber-bright: #F3BC65;
+    --crate-copper: #C87D32;
+    --crate-bronze: #8A501E;
+    --crate-charcoal: #1C1C21;
+    --crate-panel: #121215;
+    --crate-void: #09090B;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #09090B;
+    color: #F4F4F5;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-mono {
+    font-family: var(--font-mono);
+  }
+}
+
+/* Spotify-inspired Obsidian Carbon Bento Panels with subtle Warm Amber Ambient Wash */
+.crate-canvas {
+  background-color: #121215;
+  background-image:
+    linear-gradient(180deg, rgba(138, 80, 30, 0.24) 0%, rgba(44, 30, 18, 0.22) 190px, rgba(18, 18, 21, 0.96) 380px, #0D0D10 100%);
+}
+
+.crate-surface {
+  background-color: #141418;
+  background-image: linear-gradient(180deg, rgba(34, 34, 42, 0.42) 0%, rgba(18, 18, 21, 0.96) 100%);
+}
+
+.spotify-panel {
+  background-color: #121215;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.crate-cta {
+  background: linear-gradient(135deg, #F3BC65 0%, #E8A849 55%, #C87D32 100%);
+  color: #09090B;
+}
+
+.crate-cta:hover {
+  background: linear-gradient(135deg, #F8CC82 0%, #F3BC65 55%, #E8A849 100%);
+}
+
+/* Custom sleek obsidian-amber scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #09090B;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #3A3A44 0%, #27272F 100%);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #E8A849 0%, #C87D32 100%);
+}
+
+/* Custom Range Input for Audio Seek & Volume Sliders */
+input[type='range'].crate-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+input[type='range'].crate-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 12px;
+  width: 12px;
+  border-radius: 9999px;
+  background: #E8A849;
+  border: 2px solid #09090B;
+  box-shadow: 0 0 10px rgba(232, 168, 73, 0.55);
+  transition: transform 150ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+input[type='range'].crate-slider:hover::-webkit-slider-thumb {
+  transform: scale(1.22);
+}
+
+input[type='range'].crate-slider::-moz-range-thumb {
+  height: 12px;
+  width: 12px;
+  border: 2px solid #09090B;
+  border-radius: 9999px;
+  background: #E8A849;
+  box-shadow: 0 0 10px rgba(232, 168, 73, 0.55);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
